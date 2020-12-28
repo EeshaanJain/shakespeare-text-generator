@@ -1,2 +1,3 @@
 Flask==1.1.2
 tensorflow==2.4.0
+gunicron==19.9.0
